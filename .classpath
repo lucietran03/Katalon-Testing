@@ -5,7 +5,6 @@
 	<classpathentry kind="src" output="bin/listener" path="Test Listeners"/>
 	<classpathentry kind="src" output="bin/lib" path="Libs"/>
 	<classpathentry kind="src" output="bin/groovy" path="Include/scripts/groovy"/>
-	<classpathentry kind="lib" path="C:/Users/ADM/.katalon/packages/KSE-10.3.1/plugins/com.kms.katalon.core_1.0.0.202508191006.jar" sourcepath="C:/Users/ADM/.katalon/packages/KSE-10.3.1/configuration/resources/source/com.kms.katalon.core/com.kms.katalon.core-sources.jar">
 	<classpathentry kind="lib" path="/Applications/Katalon Studio Enterprise.app/Contents/Eclipse/plugins/com.kms.katalon.core_1.0.0.202508191006.jar" sourcepath="/Applications/Katalon Studio Enterprise.app/Contents/Eclipse/configuration/resources/source/com.kms.katalon.core/com.kms.katalon.core-sources.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/Applications/Katalon%20Studio%20Enterprise.app/Contents/Eclipse/configuration/resources/apidocs/com.kms.katalon.core/"/>
